@@ -67,6 +67,6 @@
 
 ###
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cyberverse2&theme=algolia&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cyberverse2&theme=algolia&hide_border=false)
-<div width="1000px">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberverse2&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cyberverse2&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cyberverse2&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberverse2&theme=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
