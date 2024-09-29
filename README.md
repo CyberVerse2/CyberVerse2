@@ -23,6 +23,6 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Backend Developer at DMS...<br>- 📚 I'm currently learning DSA and Nestjs...<br>- ⚡ In my free time I play games, read articles and read documentation...</p>
+<p align="left">- 🔭 I’m a Solana Blockchain Engineer<br>- 📚 I'm currently participating in the Solana Radar Hackathon<br>- ⚡ In my free time I play games, read articles and read documentation...</p>
 
 ###
