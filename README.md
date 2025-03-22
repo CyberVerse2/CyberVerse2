@@ -15,14 +15,6 @@
 
 ###
 
-<h1 align="center">Hi there, I'm Ejiofor Celestine 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m a Solana Blockchain Engineer<br>- 📚 I'm currently participating in the Solana Radar Hackathon<br>- ⚡ In my free time I play games, read articles and read documentation...</p>
+<h1 align="center">I'm Ejiofor Celestine 👋</h1>
 
 ###
