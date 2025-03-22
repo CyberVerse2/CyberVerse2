@@ -16,5 +16,3 @@
 ###
 
 <h2 align="center">"Foundations of A Man Take Time"</h2>
-
-###
