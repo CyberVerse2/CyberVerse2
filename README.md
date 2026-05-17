@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/121381551?v=4" alt="CyberVerse2 avatar" />
+  <img height="96" src="./sentra.svg" alt="Cyberverse logo" />
 </div>
 
 <div align="center">
